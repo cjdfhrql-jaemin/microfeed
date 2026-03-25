@@ -1,9 +1,9 @@
 compatibility_date = "2025-03-14"
 
 [[ env.development.d1_databases ]]
-binding = "FEED_DB"
-database_name = "FEED_DB"
-database_id = "id_placeholder"
+binding = "DB"
+database_name = "microfeed-db"
+database_id = "b75d69ff-dd12-403e-8fd7-b2e40a0e51c2"
 
 [env.production]
 
